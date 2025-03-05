@@ -1,1 +1,1 @@
-pm2 start index.js --name "Adolphe le bot"
+pm2 start index.js --name "APT Bot"
